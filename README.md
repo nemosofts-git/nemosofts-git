@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codecanyon.net/user/nemosofts/portfolio](https://codecanyon.net/user/nemosofts/portfolio)
 
-- 📫 How to reach me **info.nemosofts**
+- 📫 How to reach me **info.nemosofts@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
