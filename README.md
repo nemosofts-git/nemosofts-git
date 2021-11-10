@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nemosofts</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nemosofts-git&label=Profile%20views&color=0e75b6&style=flat" alt="nemosofts-git" /> </p>
+
 - 🔭 I’m currently working on [codecanyon](https://codecanyon.net/user/nemosofts)
 
 - 👨‍💻 All of my projects are available at [https://codecanyon.net/user/nemosofts/portfolio](https://codecanyon.net/user/nemosofts/portfolio)
